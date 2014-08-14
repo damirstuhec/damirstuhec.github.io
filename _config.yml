@@ -7,18 +7,18 @@ description: "Write an awesome description for your new site here. You can edit 
 color:
   primary: E4DDCA #80B3FF
   secondary: ADBABA #FD6E8A
-  secondary-dark: 1a242f #A2122F
+  secondary-dark: 2f3333 #A2122F
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://twitter.com/stuhecdamir
   - title: linkedin
-    url: http://google.com
+    url: https://www.linkedin.com/in/damirstuhec
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: http://stackoverflow.com/users/1677480/damir179
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/damirstuhec
 
 # Postal address (add as many lines as necessary)
 address:
