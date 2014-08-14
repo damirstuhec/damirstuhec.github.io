@@ -7,7 +7,7 @@ description: "Write an awesome description for your new site here. You can edit 
 color:
   primary: E4DDCA #80B3FF
   secondary: ADBABA #FD6E8A
-  secondary-dark: 3E606F #A2122F
+  secondary-dark: 1a242f #A2122F
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
